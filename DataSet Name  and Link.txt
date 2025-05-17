@@ -1,0 +1,10 @@
+DataSet Name  and Link 
+
+GlobalLandTemperaturesByCity : https://www.kaggle.com/datasets/heemalichaudhari/global-land-temperatures
+
+Greenhouse_gas_inventory_data_data :
+
+https://www.kaggle.com/datasets/unitednations/international-greenhouse-gas-emissions
+
+Pollution :
+https://www.kaggle.com/datasets/sogun3/uspollution
